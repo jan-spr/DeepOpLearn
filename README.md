@@ -4,11 +4,11 @@ Repository for code for a presentation on Deep Operator Learning / DeepONets at 
 ## Contents:
 
 
-## 1. [GRFs for DeepONet - Demo.ipynb](GRFs%20for%20DeepONet%20-%20Demo.ipynb)
+### 1. [GRFs for DeepONet - Demo.ipynb](GRFs%20for%20DeepONet%20-%20Demo.ipynb)
 
 Small Julia Notebook that demonstates the Principles of Gaussian Random Fields.
 
-## 2. [DeepONet train DRsystem.ipynb](DeepONet%20train%20DRsystem.ipynb)
+### 2. [DeepONet train DRsystem.ipynb](DeepONet%20train%20DRsystem.ipynb)
 
 Python Notebook in which we train a DeeoOnet on a 1D Diffusion Reaction System.
 
