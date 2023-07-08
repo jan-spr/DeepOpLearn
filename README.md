@@ -11,3 +11,4 @@ Small Julia Notebook that demonstates the Principles of Gaussian Random Fields.
 [DeepONet train DRsystem.ipynb](DeepONet%20train%20DRsystem.ipynb)
 
 Python Notebook in which we train a DeeoOnet on a 1D Diffusion Reaction System.
+Requires [DeepXDE](https://github.com/lululxvi/deepxde) v0.11.2 and   [DeepONet](https://github.com/lululxvi/deeponet) to be installed locally to function.
