@@ -9,7 +9,7 @@ Presentation Slides.
 
 Small Julia Notebook that demonstates the Principles of Gaussian Random Fields.
 
-### 3. [DeepONet train DRsystem.ipynb](DeepONet%20train%20DRsystem.ipynb)
+### 3. [DeepONet train HeatDiff.ipynb](DeepONet%20train%20HeatDiff.ipynb)
 
 Python Notebook in which we train a DeepONet on a 1D Heat-Diffusion System.
 
